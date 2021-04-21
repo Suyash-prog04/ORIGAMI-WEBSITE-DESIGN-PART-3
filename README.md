@@ -1,3 +1,3 @@
 # DESIGN-ORIGAMI-WEBSITE---3
 OUTPUT LINK'
-https://suwarna-cloud.github.io/DESIGN-ORIGAMI-WEBSITE---3/
+https://suyash-prog04.github.io/ORIGAMI-WEBSITE-DESIGN-PART-3/
